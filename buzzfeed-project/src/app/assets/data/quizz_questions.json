@@ -1,0 +1,56 @@
+{
+  "title": "Você seria uma princesa ou vilã?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual poder você escolheria?",
+      "options": [
+        { "id": 1, "name": "Raios-Lasers", "alias": "A" },
+        { "id": 2, "name": "Voar", "alias": "B" },
+        { "id": 3, "name": "Explodir coisas", "alias": "A" },
+        { "id": 4, "name": "Curar feridas", "alias": "B" },
+        { "id": 5, "name": "Soltar fogo pelas mãos", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro?",
+      "options": [
+        { "id": 1, "name": "Crianças", "alias": "A" },
+        { "id": 2, "name": "Idosos", "alias": "A" },
+        { "id": 3, "name": "Ninguém!", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual a sua maior preocupação ao enfrentar outra super pessoa?",
+      "options": [
+        { "id": 1, "name": "Não destruir castelos", "alias": "B" },
+        { "id": 2, "name": "Socar a cara da inimiga", "alias": "A" },
+        { "id": 3, "name": "Não sujar meu vestido", "alias": "A" },
+        { "id": 4, "name": "Não deixar ninguém se ferir", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual o seu maior foco?",
+      "options": [
+        { "id": 1, "name": "Ficar rica com poderes", "alias": "A" },
+        { "id": 2, "name": "Salvar o reino", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual o seu apelido de super pessoa?",
+      "options": [
+        { "id": 1, "name": "A Terrível", "alias": "A" },
+        { "id": 2, "name": "Amiga da aldeia", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria uma vilã!",
+    "B": "Você muito provavelmente seria uma princesa!"
+  }
+}
+
